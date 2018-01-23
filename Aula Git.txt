@@ -2,4 +2,16 @@ Arquivo de teste
 Alterei aqui
 
 Será um teste em conjunto...
+<<<<<<< HEAD
 Hellen
+=======
+
+
+
+Nilton
+
+Hugo de Almeida
+
+
+felipe_Alterando para testar.
+
